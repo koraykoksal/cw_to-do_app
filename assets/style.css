@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h3{
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+header{
+    text-align: center;
+    padding: 25px;
+}
+
+body{
+    background: #082567;
+}
+
+.dataEntry{
+    padding: 5px;
+    text-align: center;
+}
+
+#todoText{
+
+    color: white;
+    font-size: 18px;
+    padding: 5px;
+    width: 75%;
+    border-radius: 5px; 
+    background-color: transparent;  
+    border: 1px solid white; 
+}
+
+#add{
+
+    color: white;
+    cursor: pointer;
+     
+}
+
+
+
+li{
+    margin-bottom: 10px;
+    padding: 5px;
+    margin: auto;
+    width: 75%;
+    text-decoration: none;
+    list-style: none;
+    text-align: center;
+    color: white;
+    border-radius: 5px; 
+    background-color: transparent;  
+    border: 1px solid white;
+}
+
+
+
+.btn-danger{
+    font-weight: bold;
+}
